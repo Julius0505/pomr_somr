@@ -1,3 +1,3 @@
-## First project
+## project detail
 
 React-Redux-project
